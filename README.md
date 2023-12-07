@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Rayaan Uddin
 
+[<img src="https://raw.githubusercontent.com/RayaanUddin/RayaanUddin/master/intro.gif" alt="Hi there 👋 I'm Rayaan Uddin" title="Hi there 👋 I'm Rayaan Uddin"/>]
+
+
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaanUddin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaanUddin&layout=compact&langs_count=7&theme=dracula"/>
