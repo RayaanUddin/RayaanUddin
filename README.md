@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Rayaan Uddin
 
-<img src="https://raw.githubusercontent.com/RayaanUddin/RayaanUddin/master/header.gif" alt="Hi there 👋 I'm Rayaan Uddin"/>
+<img src="https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/header.gif?raw=true" alt="Hi there 👋 I'm Rayaan Uddin"/>
 
 
 <div>
