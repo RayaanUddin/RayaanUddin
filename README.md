@@ -1,10 +1,8 @@
 ## Hi there 👋 I'm Rayaan Uddin
 
   <div 
-  <a href="https://github.com/RayaanUddin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaanUddin&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaanUddin&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
 </div
 
 <p align="left"> 
@@ -15,3 +13,5 @@
     <li>📍 &nbsp; Living in London, England </li>
   </ul>
 </p>
+
+![Snake animation](https://github.com/RayaanUddin/github-snake-grid/blob/main/github-contribution-grid-snake.svg)
