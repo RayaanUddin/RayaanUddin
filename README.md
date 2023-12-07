@@ -1,5 +1,3 @@
-## Hi there 👋 I'm Rayaan Uddin
-
 <img src="https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/header.svg?raw=true" alt="Hi there 👋 I'm Rayaan Uddin"/>
 
 
@@ -34,7 +32,7 @@
 [email]: rayaan.uddin@outlook.com
 [discord]: https://www.discordapp.com/users/830067317949464638
 
-![Snake animation](https://github.com/RayaanUddin/RayaanUddin/blob/main/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/snake.svg)
 
 <br>
 <br>
