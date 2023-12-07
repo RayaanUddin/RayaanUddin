@@ -12,7 +12,7 @@
   <ul>
     <li>🎓 &nbsp; Studying BSc in Computer Science </li>
     <li>📘 &nbsp; Learning more about Java Development </li>
-    <li>💻 &nbsp; Current Public Project Chat System </li>
+    <li>💻 &nbsp; Current Public Project: Chat System </li>
     <li>📍 &nbsp; Living in London, England </li>
   </ul>
 </p>
