@@ -24,7 +24,7 @@
 [<img align="center" alt="RayaanUddin | LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Rayaan Uddin%20-blue?style=flat-square&logo=linkedin&logoColor=blue" />][linkedin]
 [<img align="center" alt="RayaanUddin | Email" src="https://img.shields.io/badge/Email-rayaan.uddin@outlook.com-blue?style=flat-square&logo=microsoftoutlook&logoColor=blue" />
 <img align="center" alt="rayaanuddin | Email" src="https://img.shields.io/badge/Discord-rayaanuddin-blue?style=flat-square&logo=discord&logoColor=white" />][discord]
-<img align="center" src="https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/radio.svg?raw=true" />
+[<img align="center" src="https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/radio.svg?raw=true" />
 <br>
 <br>
 
