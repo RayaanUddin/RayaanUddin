@@ -1,10 +1,10 @@
 <img src="https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/header.svg?raw=true" alt="Hi there 👋 I'm Rayaan Uddin"/>
 
 
-<div>
+<!--<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RayaanUddin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RayaanUddin&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div>-->
 
 <br>
 
