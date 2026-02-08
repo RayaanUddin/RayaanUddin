@@ -30,7 +30,7 @@
 
 [instagram]: https://www.instagram.com/rayaanuddin6/
 [linkedin]: https://www.linkedin.com/in/rayaanuddin/
-[discord]: https://www.discordapp.com/users/830067317949464638
+[discord]: https://www.discordapp.com/users/1399526075557478490
 [outlook]: http://www.github.com/RayaanUddin
 
 ![Snake animation](https://github.com/RayaanUddin/RayaanUddin/blob/main/Assets/snake.svg)
