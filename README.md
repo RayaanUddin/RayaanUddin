@@ -29,7 +29,7 @@
 <br>
 
 [instagram]: https://www.instagram.com/rayaanuddin6/
-[linkedin]: https://www.linkedin.com/in/rayaan-uddin/
+[linkedin]: https://www.linkedin.com/in/rayaanuddin/
 [discord]: https://www.discordapp.com/users/830067317949464638
 [outlook]: http://www.github.com/RayaanUddin
 
